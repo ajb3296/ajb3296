@@ -13,15 +13,15 @@
 
 <div>
     <h3>Language</h3>
-    <img src="https://img.shields.io/badge/ Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ java-f89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <a href="https://python.org"><img src="https://img.shields.io/badge/ Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="https://java.com"><img src="https://img.shields.io/badge/ java-f89820?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+    <a href="https://www.w3.org/"><img src="https://img.shields.io/badge/ HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+    <a href="https://www.w3.org/TR/CSS/#css"><img src="https://img.shields.io/badge/ CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://img.shields.io/badge/ javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>
 </div>
 
 <div>
     <h3>Backend</h3>
-    <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+    <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
 </div>

@@ -13,10 +13,10 @@
     </a>
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ajb3296&count_private=true&show_icons=true&theme=onedark" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajb3296&layout=compact&theme=onedark" width="400">
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajb3296&layout=compact&theme=onedark" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=ajb3296&count_private=true&show_icons=true&theme=onedark" width="400">
 </div>
 <br>
 <img src="image/paimon.png" width="300" align="right">

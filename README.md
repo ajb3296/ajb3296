@@ -19,7 +19,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ajb3296&count_private=true&show_icons=true&theme=onedark" width="400">
 </div>
 <br>
-<img src="image/paimon.png" width="300" align="right">
+
+<a href="https://www.pixiv.net/artworks/106585821">
+    <img src="image/paimon.png" width="300" align="right">
+</a>
 
 <div align="left">
     <h3>Language</h3>

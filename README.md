@@ -25,12 +25,15 @@
 </a>
 
 <div align="left">
-    <h3>Language</h3>
+    <h3>Languages</h3>
     <a href="https://python.org">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     </a>
     <a href="https://java.com">
         <img src="https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    </a>
+    <a href="https://www.rust-lang.org/">
+        <img src="https://img.shields.io/badge/rust-b7410e?style=for-the-badge&logo=rust&logoColor=white"/>
     </a>
     <a href="https://www.w3.org/">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

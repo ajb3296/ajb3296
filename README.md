@@ -20,10 +20,6 @@
 </div>
 <br>
 
-<a href="https://www.pixiv.net/artworks/106585821">
-    <img src="image/paimon.png" width="300" align="right">
-</a>
-
 <div align="left">
     <h3>Languages</h3>
     <a href="https://python.org">

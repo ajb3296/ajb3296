@@ -20,6 +20,10 @@
 </div>
 <br>
 
+<a href="https://www.pixiv.net/artworks/110289520">
+    <img src="image/bug_arona.png" width="300" align="right">
+</a>
+
 <div align="left">
     <h3>Languages</h3>
     <a href="https://python.org">

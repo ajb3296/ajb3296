@@ -48,8 +48,9 @@
 
 <div align="left">
     <h3>Frameworks</h3>
-    <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+    <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
     <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+    <a href="https://actix.rs"><img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white"/></a>
 </div>
 
 <div align="left">

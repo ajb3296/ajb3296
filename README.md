@@ -13,12 +13,6 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajb8533296" width="400"/>
     </a>
 </div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajb3296&layout=compact&theme=onedark" width="400">
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ajb3296&count_private=true&show_icons=true&theme=onedark" width="400">
-</div>
 <br>
 
 <a href="https://www.pixiv.net/artworks/110289520">
@@ -42,6 +36,9 @@
     <a href="https://www.w3.org/TR/CSS/#css">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     </a>
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+    </a>
     <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
     </a>
@@ -53,8 +50,8 @@
     <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
     <a href="https://actix.rs"><img src="https://img.shields.io/badge/Actix-0A191C?style=for-the-badge&logo=actix&logoColor=white"/></a>
     <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
-    <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
     <a href="https://chakra-ui.com/"><img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/></a>
+    <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
 </div>
 
 <div align="left">

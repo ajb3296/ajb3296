@@ -30,11 +30,14 @@
     <a href="https://www.rust-lang.org/">
         <img src="https://img.shields.io/badge/rust-b7410e?style=for-the-badge&logo=rust&logoColor=white"/>
     </a>
+    <a href="https://isocpp.org/">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    </a>
     <a href="https://www.w3.org/">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     </a>
     <a href="https://www.w3.org/TR/CSS/#css">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
     </a>
     <a href="https://www.typescriptlang.org/">
         <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
@@ -47,7 +50,7 @@
 <div align="left">
     <h3>Frameworks</h3>
     <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-    <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+    <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white"/></a>
     <a href="https://actix.rs"><img src="https://img.shields.io/badge/Actix-0A191C?style=for-the-badge&logo=actix&logoColor=white"/></a>
     <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
     <a href="https://chakra-ui.com/"><img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/></a>

@@ -1,8 +1,8 @@
 <div align="center">
     <h1>안녕하세요!</h1>
-    <a href="https://ajb.kr/">
+    <!-- <a href="https://ajb.kr/">
         <img src="https://img.shields.io/badge/portfolio-A1C0C7?style=for-the-badge"/>
-    </a>
+    </a> -->
 </div>
 
 <br>

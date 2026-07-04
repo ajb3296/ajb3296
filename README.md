@@ -56,11 +56,3 @@
     <a href="https://chakra-ui.com/"><img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/></a>
     <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
 </div>
-
-<div align="left">
-    <h3>Project</h3>
-    <a href="https://github.com/ajb3296/Toaru-kagaku-no-music-bot">
-        <img src="https://img.shields.io/badge/Toaru_Kagaku_no_Musicbot-FD935E?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <br>
-</div>
